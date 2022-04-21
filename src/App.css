@@ -12,6 +12,10 @@ body {
 a {
   color: #fee2ff;
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-header {
   text-align: center;
   margin: 30px 0;
