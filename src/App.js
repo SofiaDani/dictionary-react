@@ -11,7 +11,14 @@ function App() {
           <Dictionary defaultKeyword="chocolate" />
         </main>
         <footer className="footer-text">
-          <small>Coded by Sofia Machado</small>
+          <small>
+            <a
+              href="https://github.com/SofiaDani?tab=repositories"
+              className="link"
+            >
+              Open sourced code by Sofia Machado
+            </a>
+          </small>
         </footer>
       </div>
     </div>

@@ -24,3 +24,10 @@ a {
   text-align: center;
   margin: 30px 0;
 }
+.link {
+  color: #76a076;
+  padding: 4px;
+  border: 1px solid #eff9f0;
+  border-radius: 10px;
+  background-color: #eff9f0;
+}
